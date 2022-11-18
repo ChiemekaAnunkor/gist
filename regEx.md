@@ -28,6 +28,8 @@ every regular expression is wrapped wth ``` //```  then the anchors are added
 
 ### Quantifiers
  learn microsoft specifies quantifiers as " Quantifiers specify how many instances of a character, group, or character class must be present in the input for a match to be found. "
+ <img width="446" alt="image" src="https://user-images.githubusercontent.com/63639477/202624416-a7203070-1bfc-4395-b382-8d7ad2f3f888.png">
+
 
 ### Grouping Constructs
 
